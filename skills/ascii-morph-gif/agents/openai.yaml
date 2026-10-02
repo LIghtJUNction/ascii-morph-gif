@@ -1,0 +1,4 @@
+interface:
+  display_name: "ASCII Morph GIF"
+  short_description: "Clean looping character art with surprising transformations"
+  default_prompt: "Use $ascii-morph-gif to make a clean ASCII GIF of a coffee cup turning into a galaxy, with no labels or watermark."
